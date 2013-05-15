@@ -1,7 +1,7 @@
 awscli Cookbook
 ===============
 
-this cookbook will install the aws command line tools found http://aws.amazon.com/cli/ (note: also makes sure python is installed)
+This cookbook will install the aws command line tools found http://aws.amazon.com/cli/ (note: also makes sure python is installed)
 
 Requirements
 ------------
@@ -16,7 +16,7 @@ Usage
 -----
 #### awscli::default
 
-literally, just "recipe[awscli]" in your run list
+Literally, just "recipe[awscli]" in your run list
 
 License and Authors
 -------------------
